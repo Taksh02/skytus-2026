@@ -1,62 +1,62 @@
-# #1> Check if a person is eligible to vote
-# age = int(input("Enter a number:"))
-# if age >= 18:
-#     print("Eligible to vote")
-# else:
-#     print("Not eligible to vote")
+#1> Check if a person is eligible to vote
+age = int(input("Enter a number:"))
+if age >= 18:
+    print("Eligible to vote")
+else:
+    print("Not eligible to vote")
     
-# #2> Grade calculator based on marks
-# marks = int(input("Enter a marks:"))
-# if marks >= 90:
-#    print("Grade A")
-# elif marks >=80:
-#     print("Grade B") 
-# else: 
-#     print("Grade C")   
+#2> Grade calculator based on marks
+marks = int(input("Enter a marks:"))
+if marks >= 90:
+   print("Grade A")
+elif marks >=80:
+    print("Grade B") 
+else: 
+    print("Grade C")   
 
-# #3> Simulate a traffic light: Red = Stop, Yellow = Wait, Green = Go.
-# colour = input("Enter traffic light colour:")
-# if colour == "red":
-#     print("stop")
-# elif colour == "yellow":
-#     print("wait")
-# elif colour == "Green":
-#     print("Go") 
-# else:
-#     print ("invalid colour")   
+#3> Simulate a traffic light: Red = Stop, Yellow = Wait, Green = Go.
+colour = input("Enter traffic light colour:")
+if colour == "red":
+    print("stop")
+elif colour == "yellow":
+    print("wait")
+elif colour == "Green":
+    print("Go") 
+else:
+    print ("invalid colour")   
 
-# #4> ATM withdrawal check: sufficient balance or not.
-# balance = 20000
-# amount = int(input("Enter a withdrawal amount:"))
-# if amount <= balance:
-#     print("withdrawal successful")
-# else:
-#     print("insufficient balance")   
+#4> ATM withdrawal check: sufficient balance or not.
+balance = 20000
+amount = int(input("Enter a withdrawal amount:"))
+if amount <= balance:
+    print("withdrawal successful")
+else:
+    print("insufficient balance")   
     
-# #5> Check if a number is positive, negative, or zero.
-# num = int(input("Enter a number:"))
-# if num > 0:
-#     print ("Positive")
-# elif num < 0:
-#     print ("negative")
-# else:
-#     print ("Zero")    
+#5> Check if a number is positive, negative, or zero.
+num = int(input("Enter a number:"))
+if num > 0:
+    print ("Positive")
+elif num < 0:
+    print ("negative")
+else:
+    print ("Zero")    
                            
-#    #6> Check if a number lies within a given range.
-#   num = int(input("Enter number: "))
+   #6> Check if a number lies within a given range.
+  num = int(input("Enter number: "))
 
-# if num >= 10 and num <= 50:
-#     print("Number is in range")
-# else:
-#     print("Number is out of range")
+if num >= 10 and num <= 50:
+    print("Number is in range")
+else:
+    print("Number is out of range")
 
-#    #7> Username & password verification.
-# username = input("Enter a username: ")
-# password = input("Enter a password: ")
-# if username == "admin" and password == "2304":
-#     print("login successful")
-# else:
-#     print("invalid username or password") 
+   #7> Username & password verification.
+username = input("Enter a username: ")
+password = input("Enter a password: ")
+if username == "admin" and password == "2304":
+    print("login successful")
+else:
+    print("invalid username or password") 
     
   #8> Electricity bill calculator based on units consumed.
 units = float(input("Enter units: "))
