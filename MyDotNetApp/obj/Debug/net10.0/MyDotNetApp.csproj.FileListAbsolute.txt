@@ -1,0 +1,14 @@
+D:\skytus\MyDotNetApp\bin\Debug\net10.0\MyDotNetApp.exe
+D:\skytus\MyDotNetApp\bin\Debug\net10.0\MyDotNetApp.deps.json
+D:\skytus\MyDotNetApp\bin\Debug\net10.0\MyDotNetApp.runtimeconfig.json
+D:\skytus\MyDotNetApp\bin\Debug\net10.0\MyDotNetApp.dll
+D:\skytus\MyDotNetApp\bin\Debug\net10.0\MyDotNetApp.pdb
+D:\skytus\MyDotNetApp\obj\Debug\net10.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\skytus\MyDotNetApp\obj\Debug\net10.0\MyDotNetApp.AssemblyInfoInputs.cache
+D:\skytus\MyDotNetApp\obj\Debug\net10.0\MyDotNetApp.AssemblyInfo.cs
+D:\skytus\MyDotNetApp\obj\Debug\net10.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+D:\skytus\MyDotNetApp\obj\Debug\net10.0\MyDotNetApp.dll
+D:\skytus\MyDotNetApp\obj\Debug\net10.0\refint\MyDotNetApp.dll
+D:\skytus\MyDotNetApp\obj\Debug\net10.0\MyDotNetApp.pdb
+D:\skytus\MyDotNetApp\obj\Debug\net10.0\MyDotNetApp.genruntimeconfig.cache
+D:\skytus\MyDotNetApp\obj\Debug\net10.0\ref\MyDotNetApp.dll
